@@ -1,5 +1,5 @@
-*** Aplikasi sederhana mengelola data mahasiswa berbasis website ***
-- Techstack
-- React JS (Front-end)
+## Aplikasi sederhana Mengelola Data Mahasiswa berbasis website
+## Techstack
+- React JS + Bootstrap (Front-end)
 - Laravel (Backend)
 - MySQL (Database)
